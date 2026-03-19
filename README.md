@@ -67,7 +67,7 @@ based on weight and sweetness using the K-Nearest Neighbors algorithm.
 
 ## 🔗 Links
 - 📓 [Open Notebook in Google Colab](your-colab-link-here)
-- 🌐 [Live Interactive Demo](https://yourusername.github.io/your-repo/knn_fruit_classifier.html)
+- 🌐 [Live Interactive Demo](https://alisha-bhatti.github.io/KNN-Based-classification/)
 
 ## 🛠️ Tech Used
 - Python, Scikit-learn, Pandas, Matplotlib
