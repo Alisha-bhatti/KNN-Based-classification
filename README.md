@@ -57,3 +57,24 @@ project/
 5. Results and Discussion
 
 The KNN model performed well when the k value was chosen appropriately. Smaller values of k increased noise sensitivity, while very large values caused underfitting. Data normalization showed a strong positive impact on model performance. The confusion matrix highlighted misclassification patterns that can be addressed with feature engineering or dataset balancing.
+
+
+
+# 🍎 KNN Fruit Classifier
+
+A machine learning project that classifies fruits (Apple vs Orange)
+based on weight and sweetness using the K-Nearest Neighbors algorithm.
+
+## 🔗 Links
+- 📓 [Open Notebook in Google Colab](your-colab-link-here)
+- 🌐 [Live Interactive Demo](https://yourusername.github.io/your-repo/knn_fruit_classifier.html)
+
+## 🛠️ Tech Used
+- Python, Scikit-learn, Pandas, Matplotlib
+- K-Nearest Neighbors (k=3)
+- HTML, CSS, JavaScript (frontend)
+
+## 📊 How it works
+The model is trained on 8 samples with 2 features — weight (g)
+and sweetness (1-10). Given new inputs, it finds the 3 nearest
+neighbors and predicts the majority label.
